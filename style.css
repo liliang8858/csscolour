@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    /*flex布局*/
+    justify-content: center;
+    /* justify-content属性定义了项目在主轴上的对齐方式。 横向对齐方式 */
+    align-items: stretch;
+    /* align-items属性定义项目在交叉轴上如何对齐 stretch（默认值）：如果项目未设置高度或设为auto，将占满整个容器的高度。 */
+    flex-wrap: wrap;
+    /* flex-wrap ：定义子元素超过一行，如何换行 wrap：换行，第二行在第一行下面，从左到右 */
+
+}
+
+.csscolour {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 5px #888888;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.csscolour1 {
+    background-image: linear-gradient(to bottom right, #FF512F, #DD2476);
+
+}
+
+.csscolour2 {
+    background-image: linear-gradient(to bottom right, #FF61D2, #FE9090);
+
+}
+.csscolour3 {
+    background-image: linear-gradient(to bottom right, #72FFB6, #10D164);
+
+}
+.csscolour4 {
+    background-image: linear-gradient(to bottom right, #FD8451, #FFBD6F);
+
+}
+.csscolour5 {
+    background-image: linear-gradient(to bottom right, #305170, #6DFC6B);
+
+}
+.csscolour6 {
+    background-image: linear-gradient(to bottom right, #00C0FF, #4218B8);
+
+}
+.csscolour7 {
+    background-image: linear-gradient(to bottom right, #009245, #FCEE21);
+
+}
+.csscolour8 {
+    background-image: linear-gradient(to bottom right, #FDFCFB, #E2D1C3);
+
+}
+.csscolour9 {
+    background-image: linear-gradient(to bottom right, #0100EC, #FB36F4);
+
+}
+.csscolour10 {
+    background-image: linear-gradient(to bottom right, #FDABDD, #374A5A);
+
+}
+.csscolour11 {
+    background-image: linear-gradient(to bottom right, #38A2D7, #561139);
+
+}
+.csscolour12 {
+    background-image: linear-gradient(to bottom right, #121C84, #8278DA);
+
+}
+.csscolour13 {
+    background-image: linear-gradient(to bottom right, #5761B2, #1FC5A8);
+
+}
+.csscolour14 {
+    background-image: linear-gradient(to bottom right, #FFDB01, #0E197D);
+
+}
+.csscolour15 {
+    background-image: linear-gradient(to bottom right, #FF3E9D, #0E1F40);
+
+}
